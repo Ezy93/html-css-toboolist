@@ -4,11 +4,22 @@
     padding: 0;    
 }
 
+header{
+    background-color: white;
+}
 
+body{
+    background-color: silver;
+}
 
 .colore-sfondo{
     background-color: seagreen;
     width: 60%;
     height: 80%;
+    margin: 0 auto;
+}
 
+#spaziamento{
+    background-color: blue;
+    padding: ;
 }
