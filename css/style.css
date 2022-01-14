@@ -18,8 +18,21 @@ body{
     height: 80%;
     margin: 0 auto;
 }
+/* cosi esce troppa roba uguale da modificare */
+.button-task{
+    border: 1px solid turquoise;
+    padding: 5px 10px;
+    background-color: turquoise;
+    border-radius: 5px;
+    color: white;
+}
+}
+
+.button-section{
+
+}
 
 #spaziamento{
     background-color: blue;
-    padding: ;
+    padding: 15px 50px ;
 }
