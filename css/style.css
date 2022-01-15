@@ -24,10 +24,10 @@ li{
     line-height: 35px ;
 }
 
-.button-task{
-    color: white;    
+.button-blu{    
     border-color: rgb(71, 173, 241);
     background-color: rgb(71, 173, 241);
+    color: white;
 }
 
 
@@ -36,7 +36,7 @@ li{
     border-color: silver;
 }
 
-.common{
+.common-button{
     padding: 5px 10px;
     border: 1px solid;
     border-radius: 5px;
@@ -55,7 +55,6 @@ li{
 }
 
 .li-titles{
-    font-weight: 900;
     list-style-image: url(../img/black-triangle.png);
     
 }
@@ -73,7 +72,42 @@ li{
     margin-bottom: 20px;
 }
 
+.peso-font{
+    font-weight: 900;
+}
+
+.padding-radius{
+    padding: 5px 10px;
+    border-radius: 10px;
+    color: white;
+}
+
 #spaziamento{
     background-color: white;
     padding: 15px 50px ;
+}
+
+#font-style{
+    font-size:200% ;
+    vertical-align: 17px;    
+}
+
+#viola{
+    background-color: rgb(156, 114, 228);
+}
+
+#verde{
+    background-color: rgb(100, 192, 169);
+}
+
+#arancio{
+    background-color: rgb(242, 158, 51);
+}
+
+#lilla{
+    background-color: rgb(216, 99, 161);
+}
+
+#oro{
+    background-color: rgb(176, 201, 38);
 }
