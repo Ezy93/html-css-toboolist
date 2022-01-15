@@ -10,6 +10,7 @@ header{
 
 body{
     background-color: whitesmoke;
+    font-family: 'Roboto', sans-serif;
 }
 
 main{
@@ -18,7 +19,7 @@ main{
     margin: 0 auto;
     margin-top: 40px;
 }
-/* cosi esce troppa roba uguale da modificare */
+
 .button-task{
     color: white;    
     border-color: rgb(71, 173, 241);
@@ -47,6 +48,10 @@ main{
 .back-color{
     background-color: white;
     border-radius: 5px;
+}
+
+.common-li{
+
 }
 
 #spaziamento{
