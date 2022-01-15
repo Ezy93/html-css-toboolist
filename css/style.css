@@ -9,30 +9,47 @@ header{
 }
 
 body{
-    background-color: silver;
+    background-color: whitesmoke;
 }
 
-.colore-sfondo{
-    background-color: seagreen;
+main{
     width: 60%;
     height: 80%;
     margin: 0 auto;
+    margin-top: 40px;
 }
 /* cosi esce troppa roba uguale da modificare */
 .button-task{
-    border: 1px solid turquoise;
-    padding: 5px 10px;
-    background-color: turquoise;
-    border-radius: 5px;
-    color: white;
+    color: white;    
+    border-color: rgb(71, 173, 241);
+    background-color: rgb(71, 173, 241);
 }
-}
+
 
 .button-section{
+    color: silver;    
+    border-color: silver;
+}
 
+.common{
+    padding: 5px 10px;
+    border: 1px solid;
+    border-radius: 5px;
+}
+
+
+.padding{
+    padding: 70px;
+    margin-top: 2px;
+    
+}
+
+.back-color{
+    background-color: white;
+    border-radius: 5px;
 }
 
 #spaziamento{
-    background-color: blue;
+    background-color: white;
     padding: 15px 50px ;
 }
