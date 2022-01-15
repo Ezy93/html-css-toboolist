@@ -20,6 +20,10 @@ main{
     margin-top: 40px;
 }
 
+li{
+    line-height: 35px ;
+}
+
 .button-task{
     color: white;    
     border-color: rgb(71, 173, 241);
@@ -40,7 +44,7 @@ main{
 
 
 .padding{
-    padding: 70px;
+    padding: 35px 70px 70px 70px;
     margin-top: 2px;
     
 }
@@ -50,8 +54,23 @@ main{
     border-radius: 5px;
 }
 
-.common-li{
+.li-titles{
+    font-weight: 900;
+    list-style-image: url(../img/black-triangle.png);
+    
+}
 
+.red-check{
+    list-style-image: url(../img/check-rosso.png);
+    
+}
+
+.green-check{
+    list-style-image: url(../img/check-verde.png);
+}
+
+.inter-line{
+    margin-bottom: 20px;
 }
 
 #spaziamento{
